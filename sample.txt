@@ -2,4 +2,4 @@
 I'm an engineer for design semiconductor.
 It's warm day at 5th.Apr in Japan.
 commit write status of index
-
+pull getting the  content of remote repository
